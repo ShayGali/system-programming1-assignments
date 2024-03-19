@@ -1,0 +1,11 @@
+.vscode
+*.o
+*.a
+*.so
+*.out
+
+maindloop
+maindrec
+mains
+
+self_check

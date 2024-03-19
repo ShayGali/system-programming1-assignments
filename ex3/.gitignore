@@ -1,0 +1,10 @@
+*.o
+*.a
+StrList
+
+
+.idea
+.vscode
+ll_example
+self_check
+test.sh

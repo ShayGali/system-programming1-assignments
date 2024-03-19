@@ -1,0 +1,10 @@
+*.o
+my_graph
+my_Knapsack
+connections
+
+.idea
+.vscode
+self_check
+knaps_inputs
+graph_lib.a
